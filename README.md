@@ -1,6 +1,6 @@
 # main
-:# ChatQuantum
-
+:#chatquantum
+Long term Objective: Quantum GreenTech and Computing org chart leader (Amedeo Pelliccia thanks to @ChatGPT)
 ## Description
 ChatQuantum is an innovative platform integrating IoT, advanced artificial intelligence, next-generation algorithms, and quantum computing. The aim is to transform key sectors, promote sustainability, and improve the quality of life. The platform uses cutting-edge technologies to provide advanced solutions in data science, physics, cosmology, and digital ethics, with a focus on European integration and data justice.
 
