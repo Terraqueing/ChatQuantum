@@ -1,4 +1,4 @@
-# main
+EOIC-DM COMPONENTS # main
 :#chatquantum
 Long term Objective: Quantum GreenTech and Computing org chart leader (Amedeo Pelliccia thanks to @ChatGPT)
 ## Description
