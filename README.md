@@ -1,4 +1,4 @@
-EOIC-DM COMPONENTS # main
+EPIC-DM #Compatible
 :#chatquantum
 Long term Objective: Quantum GreenTech and Computing org chart leader (Amedeo Pelliccia thanks to @ChatGPT)
 ## Description
